@@ -1,0 +1,10 @@
+{
+  "name": "tdx-portal-assets",
+  "version": "0.1.0",
+  "builtAt": "2026-05-26T18:11:58.944Z",
+  "files": [
+    "tdx-loader.min.js",
+    "tdx-core.min.css",
+    "features/portal-global-notice.min.js"
+  ]
+}
