@@ -1,7 +1,7 @@
 {
   "name": "tdx-portal-assets",
   "version": "sandbox",
-  "builtAt": "2026-05-26T13:44:34.889Z",
+  "builtAt": "2026-05-26T14:57:03.805Z",
   "files": [
     "tdx-loader.min.js",
     "tdx-core.min.css",
