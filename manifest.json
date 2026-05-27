@@ -1,10 +1,13 @@
 {
   "name": "tdx-portal-assets",
   "version": "sandbox",
-  "builtAt": "2026-05-26T23:40:08.632Z",
+  "builtAt": "2026-05-27T02:10:42.506Z",
   "files": [
     "tdx-loader.min.js",
+    "features/portal-global-notice.min.js",
     "tdx-core.min.css",
-    "features/portal-global-notice.min.js"
+    "features/portal-global-notice.min.css",
+    "overrides/tdx-portal.min.css",
+    "overrides/tdx-forms.min.css"
   ]
 }
