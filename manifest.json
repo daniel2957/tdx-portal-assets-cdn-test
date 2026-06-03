@@ -1,7 +1,7 @@
 {
   "name": "tdx-portal-assets",
   "version": "sandbox",
-  "builtAt": "2026-06-03T17:36:25.239Z",
+  "builtAt": "2026-06-03T17:46:18.647Z",
   "files": [
     "tdx-loader.min.js",
     "features/forms-config.min.js",
@@ -9,6 +9,7 @@
     "features/forms-field-state.min.js",
     "features/forms-input-masks.min.js",
     "features/forms-validators.min.js",
+    "features/forms-calculations.min.js",
     "tdx-core.min.css",
     "overrides/tdx-portal.min.css",
     "overrides/tdx-forms.min.css"
